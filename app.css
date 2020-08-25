@@ -1,0 +1,46 @@
+header {
+    background: rgb(79, 78, 78);
+    height: 120px;
+    width: auto;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.571);
+    display: inline;
+    margin: 0px 0px 0px 60px;
+}
+
+h4 {
+    color: rgba(255, 255, 255, 0.571);
+    margin: -50px 0px 0px 60px;
+}
+
+ul {
+    background: rgb(48, 48, 48);
+    height: 20px;
+    color: rgba(255, 255, 255, 0.571);
+    text-align: right;
+    padding: 15px 10px 15px 10px;
+    margin: 0px 60px 0px 520px;
+}
+
+
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+article {
+    width: 200px;
+    display: inline;
+}
+
+figure {
+    width: 
+}
+
+.first_image {
+    float: right;
+}
+
+
