@@ -7,11 +7,11 @@
     background: rgb(79, 78, 78);
     height: 120px;
     width: 100%;
-    margin: 0 auto;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
+    flex-basis: 50%;
 }
 
 #main-page-headlines {
@@ -73,19 +73,20 @@ li {
 #first_plant {
     flex-wrap: wrap;
     flex-basis: 35%
+    
 }
 #second_plant {
     flex-wrap: wrap;
-    flex-basis: 27.5%
+    flex-basis: 25%
 }
 #third_plant {
     flex-wrap: wrap;
-    flex-basis: 27.5%
+    flex-basis: 25%
 }
 
 footer {
     width: 100%;
-    margin: 100px auto;
+    margin: 100px 0 0 0;
     display: flex;
     padding: 0 0 0 40px;
     color: white;
